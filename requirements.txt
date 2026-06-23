@@ -1,0 +1,9 @@
+#Python dependencies
+
+streamlit
+pandas
+requests
+beautifulsoup4
+tabulate
+openpyxl
+lxml
